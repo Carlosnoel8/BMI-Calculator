@@ -1,0 +1,9 @@
+ion-content
+{background: linear-gradient(to bottom,#0cebeb, #20e3b2, #29ffc6 );}
+h2{
+  color: green
+}
+p {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: justify;
+}
